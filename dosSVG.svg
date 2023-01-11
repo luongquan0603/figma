@@ -1,0 +1,163 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<g id="a1">
+			<circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+		</g>
+	</defs>
+	<def>
+		<g id="a2">
+			<use x="5" y="5" xlink:href="#a1">
+			</use>
+			<use x="10" y="5" xlink:href="#a1">
+			</use>
+			<use x="15" y="5" xlink:href="#a1">
+			</use>
+			<use x="20" y="5" xlink:href="#a1">
+			</use>
+			<use x="25" y="5" xlink:href="#a1">
+			</use>
+			<use x="30" y="5" xlink:href="#a1">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a3">
+			<use x="5" y="5" xlink:href="#a2">
+			</use>
+			<use x="10" y="5" xlink:href="#a2">
+			</use>
+			<use x="15" y="5" xlink:href="#a2">
+			</use>
+			<use x="20" y="5" xlink:href="#a2">
+			</use>
+			<use x="25" y="5" xlink:href="#a2">
+			</use>
+			<use x="30" y="5" xlink:href="#a2">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a4">
+			<use x="5" y="5" xlink:href="#a3">
+			</use>
+			<use x="10" y="5" xlink:href="#a3">
+			</use>
+			<use x="15" y="5" xlink:href="#a3">
+			</use>
+			<use x="20" y="5" xlink:href="#a3">
+			</use>
+			<use x="25" y="5" xlink:href="#a3">
+			</use>
+			<use x="30" y="5" xlink:href="#a3">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a5">
+			<use x="5" y="5" xlink:href="#a4">
+			</use>
+			<use x="10" y="5" xlink:href="#a4">
+			</use>
+			<use x="15" y="5" xlink:href="#a4">
+			</use>
+			<use x="20" y="5" xlink:href="#a4">
+			</use>
+			<use x="25" y="5" xlink:href="#a4">
+			</use>
+			<use x="100" y="100" xlink:href="#a4">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a6">
+			<use x="5" y="5" xlink:href="#a5">
+			</use>
+			<use x="10" y="5" xlink:href="#a5">
+			</use>
+			<use x="15" y="5" xlink:href="#a5">
+			</use>
+			<use x="20" y="5" xlink:href="#a5">
+			</use>
+			<use x="25" y="5" xlink:href="#a5">
+			</use>
+			<use x="30" y="5" xlink:href="#a5">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a7">
+			<use x="5" y="5" xlink:href="#a6">
+			</use>
+			<use x="10" y="5" xlink:href="#a6">
+			</use>
+			<use x="15" y="5" xlink:href="#a6">
+			</use>
+			<use x="20" y="5" xlink:href="#a6">
+			</use>
+			<use x="25" y="5" xlink:href="#a6">
+			</use>
+			<use x="30" y="5" xlink:href="#a6">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a8">
+			<use x="5" y="5" xlink:href="#a7">
+			</use>
+			<use x="10" y="5" xlink:href="#a7">
+			</use>
+			<use x="15" y="5" xlink:href="#a7">
+			</use>
+			<use x="20" y="5" xlink:href="#a7">
+			</use>
+			<use x="25" y="5" xlink:href="#a7">
+			</use>
+			<use x="30" y="5" xlink:href="#a7">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a9">
+			<use x="5" y="5" xlink:href="#a8">
+			</use>
+			<use x="10" y="5" xlink:href="#a8">
+			</use>
+			<use x="15" y="5" xlink:href="#a8">
+			</use>
+			<use x="20" y="5" xlink:href="#a8">
+			</use>
+			<use x="25" y="5" xlink:href="#a8">
+			</use>
+			<use x="30" y="5" xlink:href="#a8">
+			</use>
+		</g>
+	</def>
+	<def>
+		<g id="a10">
+			<use x="5" y="5" xlink:href="#a9">
+			</use>
+			<use x="10" y="5" xlink:href="#a9">
+			</use>
+			<use x="15" y="5" xlink:href="#a9">
+			</use>
+			<use x="20" y="5" xlink:href="#a9">
+			</use>
+			<use x="25" y="5" xlink:href="#a9">
+			</use>
+			<use x="30" y="5" xlink:href="#a9">
+			</use>
+		</g>
+	</def>
+	<use x="5" y="5" xlink:href="#a10">
+	</use>
+	<use x="10" y="5" xlink:href="#a10">
+	</use>
+	<use x="15" y="5" xlink:href="#a10">
+	</use>
+	<use x="20" y="5" xlink:href="#a10">
+	</use>
+	<use x="25" y="5" xlink:href="#a10">
+	</use>
+	<use x="30" y="5" xlink:href="#a10">
+	</use>
+</svg>
